@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'catvoicerecog'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE96BC1AC5314C3C913B748F39CB8560 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E2DECE16AB746DA858EDFC7617E0361 }}
